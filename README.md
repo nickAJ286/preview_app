@@ -1,24 +1,17 @@
-# README
+# アプリケーション名
+復習アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+学習内容の投稿を行い、復習として投稿から翌日、そこから3日後（学習から4日後）、さらに一週間後（学習から11日後）、さらに1カ月後（学習から41日後）の計4回投稿内容が登録アドレスに送られる
 
-Things you may want to cover:
+# URL
 
-* Ruby version
+# テスト用アカウント
 
-* System dependencies
+# 利用方法
 
-* Configuration
+# アプリケーションを作成した背景
+学習のアウトプットと忘却曲線に基づいた復習を行いたいと考え開発をすることにした
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 洗い出した要件
+https://docs.google.com/spreadsheets/d/1ClsACndiVJNfqMjd0ZKhxHyk3vTEo3YrlZtCrsG1FkQ/edit#gid=1137321743
